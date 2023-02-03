@@ -103,7 +103,7 @@ Envia id da liga e recebe dados dos times em ordem de colocação na tabela
 - AwayRank
 - Home Score
 - Home Loss Score
-- Away Score
+- Away Score ( AWAY SCORE + HOME SCORE = TOTAL DE PONTOS )
 - AwayLossScore
 - NearlyTenWin (Quantos dos últimos 10 jogos ganhou)
 - NearlyTenLoss (Quantos dos últimos 10 jogos perdeu)
