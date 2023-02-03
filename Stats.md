@@ -101,6 +101,7 @@ Envia id da liga e recebe dados dos times em ordem de colocação na tabela
 - State (Numero de derrotas ou vitórias em sequencia)
 - HomeRank
 - AwayRank
+- TotalRank
 - Home Score
 - Home Loss Score
 - Away Score ( AWAY SCORE + HOME SCORE = TOTAL DE PONTOS )
